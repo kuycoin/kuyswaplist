@@ -88,7 +88,7 @@
       "address": "0xda134F76f0c4aDe8DDb898D2693D66953F5F50Cf",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "http://kuycoin.xyz/images/coins/0xda134F76f0c4aDe8DDb898D2693D66953F5F50Cf.png"
+      "logoURI": "https://github.com/kuycoin/kuyswaplist/blob/main/0xda134F76f0c4aDe8DDb898D2693D66953F5F50Cf.png"
     },
     {
       "name": "ADAY Token",
@@ -96,7 +96,7 @@
       "address": "0xd22730160D857c449515BE2F6E23dbDBd620326b",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "http://kuycoin.xyz/images/coins/0xd22730160D857c449515BE2F6E23dbDBd620326b.png"
+      "logoURI": "https://github.com/kuycoin/kuyswaplist/blob/main/0xd22730160D857c449515BE2F6E23dbDBd620326b.png"
     },
     {
       "name": "48TH Fanbase Coin",
@@ -104,7 +104,15 @@
       "address": "0xc0BDC30fAF89082c6fAc4CFb9B836da91821C236",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "http://kuycoin.xyz/images/coins/0xc0BDC30fAF89082c6fAc4CFb9B836da91821C236.png"
+      "logoURI": "https://github.com/kuycoin/kuyswaplist/blob/main/0xc0BDC30fAF89082c6fAc4CFb9B836da91821C236.png"
+    },
+     {
+      "name": "Mynas Coin",
+      "symbol": "AJA",
+      "address": "0xe6B7c247442586CC9Fcc46a5756F1b592b1f3B49",
+      "chainId": 96,
+      "decimals": 8,
+      "logoURI": "https://github.com/kuycoin/kuyswaplist/blob/main/0xe6B7c247442586CC9Fcc46a5756F1b592b1f3B49.png"
     },
     {
       "name": "Hello Coin",
