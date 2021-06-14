@@ -56,7 +56,7 @@
       "address": "0x085AEf5BE089Ac245bCe436a3620f289E3f57e5e",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "http://kuycoin.xyz/images/coins/0x085AEf5BE089Ac245bCe436a3620f289E3f57e5e.png"
+      "logoURI": "https://raw.githubusercontent.com/kuycoin/kuyswaplist/main/0x085AEf5BE089Ac245bCe436a3620f289E3f57e5e.png"
     },
     {
       "name": "RICH",
@@ -64,7 +64,7 @@
       "address": "0x523c106CE62055b3251165aBECe85f61663dD2C1",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "http://kuycoin.xyz/images/coins/0x523c106CE62055b3251165aBECe85f61663dD2C1.png"
+      "logoURI": "https://raw.githubusercontent.com/kuycoin/kuyswaplist/main/0x523c106CE62055b3251165aBECe85f61663dD2C1.png"
     },
     {
       "name": "Persian Token V1",
@@ -72,7 +72,7 @@
       "address": "0x195E6075cE87146b8402f50dDDA7D5705c90cd2D",
       "chainId": 96,
       "decimals": 18,
-      "logoURI": "http://kuycoin.xyz/images/coins/0x195E6075cE87146b8402f50dDDA7D5705c90cd2D.png"
+      "logoURI": "https://raw.githubusercontent.com/kuycoin/kuyswaplist/main/0x195E6075cE87146b8402f50dDDA7D5705c90cd2D.png"
     },
     {
       "name": "YAKK THAI TOKEN",
@@ -80,7 +80,7 @@
       "address": "0xd3F61df898965c529a942985049E60592C451410",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "http://kuycoin.xyz/images/coins/0xd3F61df898965c529a942985049E60592C451410.png"
+      "logoURI": "https://raw.githubusercontent.com/kuycoin/kuyswaplist/main/0xd3F61df898965c529a942985049E60592C451410.png"
     },
     {
       "name": "FROGMOON",
@@ -88,7 +88,7 @@
       "address": "0xda134F76f0c4aDe8DDb898D2693D66953F5F50Cf",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "https://github.com/kuycoin/kuyswaplist/blob/main/0xda134F76f0c4aDe8DDb898D2693D66953F5F50Cf.png"
+      "logoURI": "https://raw.githubusercontent.com/kuycoin/kuyswaplist/main/0xda134F76f0c4aDe8DDb898D2693D66953F5F50Cf.png"
     },
     {
       "name": "ADAY Token",
@@ -96,7 +96,7 @@
       "address": "0xd22730160D857c449515BE2F6E23dbDBd620326b",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "https://github.com/kuycoin/kuyswaplist/blob/main/0xd22730160D857c449515BE2F6E23dbDBd620326b.png"
+      "logoURI": "https://raw.githubusercontent.com/kuycoin/kuyswaplist/main/0xd22730160D857c449515BE2F6E23dbDBd620326b.png"
     },
     {
       "name": "48TH Fanbase Coin",
@@ -104,7 +104,7 @@
       "address": "0xc0BDC30fAF89082c6fAc4CFb9B836da91821C236",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "https://github.com/kuycoin/kuyswaplist/blob/main/0xc0BDC30fAF89082c6fAc4CFb9B836da91821C236.png"
+      "logoURI": "https://raw.githubusercontent.com/kuycoin/kuyswaplist/main/0xc0BDC30fAF89082c6fAc4CFb9B836da91821C236.png"
     },
      {
       "name": "Mynas Coin",
@@ -112,7 +112,7 @@
       "address": "0xe6B7c247442586CC9Fcc46a5756F1b592b1f3B49",
       "chainId": 96,
       "decimals": 8,
-      "logoURI": "https://github.com/kuycoin/kuyswaplist/blob/main/0xe6B7c247442586CC9Fcc46a5756F1b592b1f3B49.png"
+      "logoURI": "https://raw.githubusercontent.com/kuycoin/kuyswaplist/main/0xe6B7c247442586CC9Fcc46a5756F1b592b1f3B49.png"
     },
     {
       "name": "Hello Coin",
@@ -120,7 +120,7 @@
       "address": "0x7B47523ebcBcAD9F15a09EA5cE927f665326204C",
       "chainId": 96,
       "decimals": 9,
-      "logoURI": "http://kuycoin.xyz/images/coins/0x7B47523ebcBcAD9F15a09EA5cE927f665326204C.png"
+      "logoURI": "https://raw.githubusercontent.com/kuycoin/kuyswaplist/main/0x7B47523ebcBcAD9F15a09EA5cE927f665326204C.png"
     }
   ]
 }
