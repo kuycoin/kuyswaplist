@@ -1,0 +1,118 @@
+{
+  "name": "KuySwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://r.8b.io/291549/images/barbarian-intro-1-h_korlidtj-1044x551.png",
+  "keywords": ["kuyswap", "default"],
+  "tokens": [
+    {
+      "name": "KuyCOIN",
+      "symbol": "KUY",
+      "address": "0x2009A60434dc8c8f772c9969d64868bDc2bF17B2",
+      "chainId": 96,
+      "decimals": 9,
+      "logoURI": "https://r.8b.io/291549/images/barbarian-intro-1-h_korlidtj-1044x551.png"
+    },
+    {
+      "name": "KUBW KuyCOIN Wrapped KUB",
+      "symbol": "KUBW",
+      "address": "0x1faeCD43b3e82933E139eb4ceB2AF2d091B8B2aD",
+      "chainId": 96,
+      "decimals": 18,
+      "logoURI": "https://www.bkcscan.com/images/bitkub-favicon-f5bdd92b698a133d465b99e974869a15.png"
+    },
+    {
+      "name": "Terminated Wrapped KUB",
+      "symbol": "(Deprecated) KKUB",
+      "address": "0x12a5A2f27bc1eA474518f41A829B60b945585c97",
+      "chainId": 96,
+      "decimals": 18,
+      "logoURI": "https://www.bkcscan.com/images/bitkub-favicon-f5bdd92b698a133d465b99e974869a15.png"
+    },
+    {
+      "name": "Wrapped KUB",
+      "symbol": "KKUB",
+      "address": "0x67eBD850304c70d983B2d1b93ea79c7CD6c3F6b5",
+      "chainId": 96,
+      "decimals": 18,
+      "logoURI": "https://www.bkcscan.com/images/bitkub-favicon-f5bdd92b698a133d465b99e974869a15.png"
+    },
+    {
+      "name": "Wrapped KUB",
+      "symbol": "WKUB",
+      "address": "0xDa91a1aee4d7829c118cD6218CDA2cB2C56dd010",
+      "chainId": 96,
+      "decimals": 18,
+      "logoURI": "https://www.bkcscan.com/images/bitkub-favicon-f5bdd92b698a133d465b99e974869a15.png"
+    },
+    {
+      "name": "1FIRST",
+      "symbol": "1FIRST",
+      "address": "0x085AEf5BE089Ac245bCe436a3620f289E3f57e5e",
+      "chainId": 96,
+      "decimals": 8,
+      "logoURI": "http://kuycoin.xyz/images/coins/0x085AEf5BE089Ac245bCe436a3620f289E3f57e5e.png"
+    },
+    {
+      "name": "RICH",
+      "symbol": "RICH",
+      "address": "0x523c106CE62055b3251165aBECe85f61663dD2C1",
+      "chainId": 96,
+      "decimals": 8,
+      "logoURI": "http://kuycoin.xyz/images/coins/0x523c106CE62055b3251165aBECe85f61663dD2C1.png"
+    },
+    {
+      "name": "Persian Token V1",
+      "symbol": "PER",
+      "address": "0x195E6075cE87146b8402f50dDDA7D5705c90cd2D",
+      "chainId": 96,
+      "decimals": 18,
+      "logoURI": "http://kuycoin.xyz/images/coins/0x195E6075cE87146b8402f50dDDA7D5705c90cd2D.png"
+    },
+    {
+      "name": "YAKK THAI TOKEN",
+      "symbol": "YAKK",
+      "address": "0xd3F61df898965c529a942985049E60592C451410",
+      "chainId": 96,
+      "decimals": 8,
+      "logoURI": "http://kuycoin.xyz/images/coins/0xd3F61df898965c529a942985049E60592C451410.png"
+    },
+    {
+      "name": "FROGMOON",
+      "symbol": "FROGMOON",
+      "address": "0xda134F76f0c4aDe8DDb898D2693D66953F5F50Cf",
+      "chainId": 96,
+      "decimals": 8,
+      "logoURI": "http://kuycoin.xyz/images/coins/0xda134F76f0c4aDe8DDb898D2693D66953F5F50Cf.png"
+    },
+    {
+      "name": "ADAY Token",
+      "symbol": "ADAY",
+      "address": "0xd22730160D857c449515BE2F6E23dbDBd620326b",
+      "chainId": 96,
+      "decimals": 8,
+      "logoURI": "http://kuycoin.xyz/images/coins/0xd22730160D857c449515BE2F6E23dbDBd620326b.png"
+    },
+    {
+      "name": "48TH Fanbase Coin",
+      "symbol": "FEFC",
+      "address": "0xc0BDC30fAF89082c6fAc4CFb9B836da91821C236",
+      "chainId": 96,
+      "decimals": 8,
+      "logoURI": "http://kuycoin.xyz/images/coins/0xc0BDC30fAF89082c6fAc4CFb9B836da91821C236.png"
+    },
+    {
+      "name": "Hello Coin",
+      "symbol": "Hello",
+      "address": "0x7B47523ebcBcAD9F15a09EA5cE927f665326204C",
+      "chainId": 96,
+      "decimals": 9,
+      "logoURI": "http://kuycoin.xyz/images/coins/0x7B47523ebcBcAD9F15a09EA5cE927f665326204C.png"
+    }
+  ]
+}
